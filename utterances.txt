@@ -1,0 +1,16 @@
+GetTrafficIntent how's traffic to {Destination}
+GetTrafficIntent how is traffic to {Destination}
+GetTrafficIntent how's the traffic to {Destination}
+GetTrafficIntent how is the traffic to {Destination}
+GetTrafficIntent how's traffic to {Destination} for {Person}
+GetTrafficIntent how is traffic to {Destination} for {Person}
+GetTrafficIntent how's the traffic to {Destination} for {Person}
+GetTrafficIntent how is the traffic to {Destination} for {Person}
+GetTrafficIntent how's traffic to {Destination} from {Start}
+GetTrafficIntent how is traffic to {Destination} from {Start}
+GetTrafficIntent how's the traffic to {Destination} from {Start}
+GetTrafficIntent how is the traffic to {Destination} from {Start}
+GetTrafficIntent how's traffic to {Destination} from {Start} for {Person}
+GetTrafficIntent how is traffic to {Destination} from {Start} for {Person}
+GetTrafficIntent how's the traffic to {Destination} from {Start} for {Person}
+GetTrafficIntent how is the traffic to {Destination} from {Start} for {Person}
